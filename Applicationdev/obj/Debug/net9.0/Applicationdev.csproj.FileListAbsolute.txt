@@ -1,0 +1,14 @@
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/bin/Debug/net9.0/Applicationdev
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/bin/Debug/net9.0/Applicationdev.deps.json
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/bin/Debug/net9.0/Applicationdev.runtimeconfig.json
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/bin/Debug/net9.0/Applicationdev.dll
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/bin/Debug/net9.0/Applicationdev.pdb
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.AssemblyInfoInputs.cache
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.AssemblyInfo.cs
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.csproj.CoreCompileInputs.cache
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.dll
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/refint/Applicationdev.dll
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.pdb
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/Applicationdev.genruntimeconfig.cache
+/Users/ashokbasnet/RiderProjects/Applicationdev/Applicationdev/obj/Debug/net9.0/ref/Applicationdev.dll
