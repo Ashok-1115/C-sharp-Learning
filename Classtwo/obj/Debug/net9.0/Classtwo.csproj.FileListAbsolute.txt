@@ -1,0 +1,14 @@
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/bin/Debug/net9.0/Classtwo
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/bin/Debug/net9.0/Classtwo.deps.json
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/bin/Debug/net9.0/Classtwo.runtimeconfig.json
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/bin/Debug/net9.0/Classtwo.dll
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/bin/Debug/net9.0/Classtwo.pdb
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.AssemblyInfoInputs.cache
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.AssemblyInfo.cs
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.csproj.CoreCompileInputs.cache
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.dll
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/refint/Classtwo.dll
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.pdb
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/Classtwo.genruntimeconfig.cache
+/Users/ashokbasnet/RiderProjects/Classtwo/Classtwo/obj/Debug/net9.0/ref/Classtwo.dll
